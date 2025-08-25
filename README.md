@@ -24,6 +24,7 @@ folium
 Clone the repository and install dependencies:
 
 (https://github.com/Satyam-vohra/Cyber_Tools-.git)
+
 cd phone-number-tracker
 pip install phonenumbers opencage folium
 
