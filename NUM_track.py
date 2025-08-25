@@ -3,10 +3,10 @@ from phonenumbers import geocoder, carrier
 from opencage.geocoder import OpenCageGeocode
 import folium
 
-number = "+917983129514" 
+number = "+9179831xxxx24" #Tracking Number
 phoneNumber = phonenumbers.parse(number)
 
-Key = "d742f1b2f0ad4120aa2cef12ad6d8c27" 
+Key = "d742f1b2f0ad4120aef12ad6d8c27"  #your API Key
 yourLocation = geocoder.description_for_number(phoneNumber, "en")
 print("Location: " + yourLocation)
 
@@ -32,3 +32,4 @@ if results:
     print("Map has been saved as 'Location.html'. Open it in your browser to view the location.")
 else:
     print("No results found for the given location.")
+
