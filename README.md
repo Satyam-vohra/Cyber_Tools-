@@ -54,6 +54,8 @@ Latitude: 28.6139, Longitude: 77.2090
 Map has been saved as 'Location.html'.
 
 🌍 Demo Map
+<img width="1259" height="517" alt="Screenshot 2025-08-25 162722" src="https://github.com/user-attachments/assets/9a94d30e-547d-434b-9ec9-5d0f9b32ca78" />
+
 
 The script generates an HTML map like this:
 
